@@ -1,18 +1,15 @@
 # **Title: Hepatitis Prediction Application**
+## **1. Description**
+#### User can create account--> Login, Signup facility
+#### Select from activity section as Plot or Prediction
+#### Predictions based on age,sex,steroids,anti-virus,fatigue,spider-naeve,ascities,varices and many other symptoms are made
+#### Select models from KNN, Decision Tree, Lr and predict and interpret Death and living probablity
 
 
-## **1. Methodology**
-<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
-
-
-## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
-
-
-## **3. Live link**
+## **2. Live link**
 Link: https://samridhi412-hepatitis-predict-app-vzme75.streamlit.app/
 
-## **4. Screenshot of the Interface**
+## **3. Screenshot of the Interface**
 <img width="924" alt="17 12 2022_19 54 41_REC" src="https://user-images.githubusercontent.com/56949183/208246924-18614925-cb48-4406-b3db-1bb699b294a3.png">
 <img width="925" alt="17 12 2022_19 55 17_REC" src="https://user-images.githubusercontent.com/56949183/208246929-dd020e2f-9f4d-4b1c-bff6-0bcc41abd006.png">
 <img width="926" alt="17 12 2022_19 57 22_REC" src="https://user-images.githubusercontent.com/56949183/208246906-d134a534-bee9-4c46-b4aa-6c9d3bf5bdbc.png">
